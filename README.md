@@ -17,30 +17,23 @@
 
 ## :computer: Technologies that I know
 
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/87b6ba1f711382d08c63d58f5ef411de0dca6ea8/asstes/HTML.svg"/>
-<img  src="https://raw.githubusercontent.com/konika098/Konika-khan/main/asstes/css.png"/>
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/87b6ba1f711382d08c63d58f5ef411de0dca6ea8/asstes/JavaScript.svg"/>
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/87b6ba1f711382d08c63d58f5ef411de0dca6ea8/asstes/React-Dark%20(1).svg"/>
 
-
+</p><br/><p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+  </a>
 </p>
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/316d5fc82478da1d8676c172ca4408647c0764f8/asstes/MaterialUI-Dark.svg"/>
-
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/main/asstes/tailwind.png"/>
-
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/main/asstes/firebase.png"/>
+</p><br/><p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,materialui,firebase" />
+  </a>
+  <br/>
 </p>
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/87b6ba1f711382d08c63d58f5ef411de0dca6ea8/asstes/NodeJS-Dark.svg"/>
-<img src="https://raw.githubusercontent.com/konika098/Konika-khan/87b6ba1f711382d08c63d58f5ef411de0dca6ea8/asstes/MongoDB.svg"/>
-
-</p><br/>
-
+</p><br/><p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+  </a>
+</p>
 
 
 
@@ -49,6 +42,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=konika098&theme=transparent&hide_current_streak=true)](https://git.io/streak-stats)
+
+
