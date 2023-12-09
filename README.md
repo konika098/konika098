@@ -5,7 +5,7 @@
 
 
 ## :eyes: Current overview
-<div align='right>
+<div align='right'>
   <a href="https://app.daily.dev/konika098"><img ' src="https://api.daily.dev/devcards/2a1cc1313fcd487dab51691d401956ab.png?r=lae" width="200" alt="konika khan's Dev Card"/></a>
 
 </div>
