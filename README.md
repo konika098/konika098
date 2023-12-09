@@ -12,7 +12,10 @@
 ### 🤔 I’m trying - To build my backend skills.
 ### 🌱 I’m exploring - My own Project.
 
+
 </div>
+<a href="https://app.daily.dev/konika098"><img align='right' src="https://api.daily.dev/devcards/2a1cc1313fcd487dab51691d401956ab.png?r=lae" width="200" alt="konika khan's Dev Card"/></a>
+
 
 
 ## :computer: Technologies that I know
