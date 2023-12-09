@@ -1,6 +1,6 @@
 
 <a href="https://www.linkedin.com/in/konika-453a3b208/">
-<img src='./asstes/2.png'/>
+<img src='https://i.ibb.co/wcfbtFy/2.png'/>
 
 
 
@@ -9,14 +9,14 @@
   <a href="https://app.daily.dev/konika098"><img ' src="https://api.daily.dev/devcards/2a1cc1313fcd487dab51691d401956ab.png?r=lae" width="200" alt="konika khan's Dev Card"/></a>
 
 </div>
-<div>
+
 
 ### 👯 I’m looking - To collaborate on  projects. 
 ### 🤔 I’m trying - To build my backend skills.
 ### 🌱 I’m exploring - My own Project.
 
 
-</div>
+
 
 
 
