@@ -1,6 +1,9 @@
 
-<a href="https://www.linkedin.com/in/konika-453a3b208/">
-<img src='https://i.ibb.co/wcfbtFy/2.png'/>
+
+
+<a href="https://www.linkedin.com/in/konika-453a3b208/" target="_blank">
+  <img src="https://i.ibb.co/wcfbtFy/2.png" alt="Header" width="100%">
+</a>
 
 
 
